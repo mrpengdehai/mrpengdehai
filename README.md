@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mrpengdehai
+- 👀 I’m interested in Python. I’m currently learning ...
+- Computer Science student with a keen interest in Python.
+- Always learning and seeking opportunities to contribute to open-source projects.
